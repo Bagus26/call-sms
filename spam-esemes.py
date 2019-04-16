@@ -74,6 +74,6 @@ try:
 		else:
 			print("[-] SMS  2 NYANGKUT")
 		print("÷"*30)
-		time.sleep(30)
+		time.sleep(35)
 except KeyboardInterrupt:
 	print("%s^•^SEE YOU NEXT TIME MAMANG^•^"%s(c))
